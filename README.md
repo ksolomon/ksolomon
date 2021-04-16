@@ -6,7 +6,7 @@
 
 My main focus is WordPress theme programming, but I'm a geek, so most things tech interest me.
 
-My (woefully underused) site is ![KeithSolomon.net](https://keithsolomon.net)
+My (woefully underused) site is [KeithSolomon.net](https://keithsolomon.net)
 
 ---
 
