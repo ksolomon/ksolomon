@@ -10,3 +10,17 @@ My (woefully underused) site is [KeithSolomon.net](https://keithsolomon.net)
 
 ---
 
+📘 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+▶ [...read more](https://keithsolomon.net)
+
+---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klsolomon&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Keith's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksolomon&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
