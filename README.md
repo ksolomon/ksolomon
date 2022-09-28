@@ -27,4 +27,3 @@ My (woefully underused) site is [KeithSolomon.net](https://keithsolomon.net)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksolomon&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Keith's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksolomon&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ksolomon/ksolomon/blob/master/devcard.svg" width="400" alt="Keith Solomon's Dev Card"/></a>
