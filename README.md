@@ -12,11 +12,11 @@ My (woefully underused) site is [KeithSolomon.net](https://keithsolomon.net)
 📘 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Memory is a funny thing](https://keithsolomon.net/memory-is-a-funny-thing/)
 - [Short story: “Death Plays A Game”](https://keithsolomon.net/death-plays-a-game/)
 - [The future of the CTC plugin](https://keithsolomon.net/the-future-of-the-ctc-plugin/)
 - [Mini Book Review: “WordPress Plugin Development Cookbook”](https://keithsolomon.net/mini-book-review-wordpress-plugin-development-cookbook/)
 - [CMS-like Admin Menu Plugin – Version 2.1 Released.](https://keithsolomon.net/cms-like-admin-menu-plugin-version-2-1-released/)
-- [CTC – Version 5.2 Released](https://keithsolomon.net/ctc-version-5-2-released/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...read more](https://keithsolomon.net)
