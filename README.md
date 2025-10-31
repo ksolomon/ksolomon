@@ -12,11 +12,11 @@ My (woefully underused) site is [KeithSolomon.net](https://keithsolomon.net)
 📘 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Weekend Rec Builds: cifs-watch](https://keithsolomon.net/weekend-rec-builds-cifs-watch/)
 - [Weekend Rec Build: Hall of the Dwarven King – Web Edition](https://keithsolomon.net/weekend-rec-build-hall-of-the-dwarven-king-web-edition/)
 - [Memory is a funny thing](https://keithsolomon.net/memory-is-a-funny-thing/)
 - [Short story: “Death Plays A Game”](https://keithsolomon.net/death-plays-a-game/)
 - [The future of the CTC plugin](https://keithsolomon.net/the-future-of-the-ctc-plugin/)
-- [Mini Book Review: “WordPress Plugin Development Cookbook”](https://keithsolomon.net/mini-book-review-wordpress-plugin-development-cookbook/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...read more](https://keithsolomon.net)
